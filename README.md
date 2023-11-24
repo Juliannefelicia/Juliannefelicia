@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juliannefelicia
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Finance, Accounting and Management
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me juliannefelicia@gmail.com
 
 <!---
